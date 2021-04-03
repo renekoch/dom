@@ -18,3 +18,19 @@ const div = DOM('div')
   })
   .appendTo(document.body);
 ```
+
+## Methods
+* css(o) 
+* attr(attributes) 
+* on(evt, fn, add_direct_event = false) 
+* off(evt, fn) 
+* addClass(cls) 
+* removeClass(cls) 
+* toggleClass(cls, force) 
+* hasClass(cls) 
+* add(...children) 
+* html(html) 
+* text(text) 
+* clear() 
+* appendTo(parent) 
+* remove() 
