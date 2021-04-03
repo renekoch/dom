@@ -1,11 +1,11 @@
-# dom
+# DOM
 Yet another dom manipulation library
 
 * 1.5k when compressed
 * chainable
 * easy to use
 
-== Example
+## Example
 ```javascript
 import DOM from 'dom';
 
